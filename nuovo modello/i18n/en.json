@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "work": "Work",
+    "studio": "Studio",
+    "pricing": "Pricing",
+    "start": "Start a project ↗"
+  },
+  "hero": {
+    "eyebrow": "BOUTIQUE WEB DESIGN × ENGINEERING × AI",
+    "title": "A beautiful website.<br>In just a few days.<br><em>And the code is yours.</em>",
+    "body": "Bespoke websites built through an AI-assisted process. Clear pricing. No lock-in. Source code included.",
+    "cta1": "Build your website ↗",
+    "cta2": "View selected work ↓",
+    "delivery": "TYPICAL DELIVERY 5–10 DAYS"
+  },
+  "manifesto": {
+    "kicker": "A NEW WAY TO BUILD FOR THE WEB",
+    "title": "AI makes it faster.<br>Engineering makes it reliable.<br><em>Design makes it yours.</em>"
+  },
+  "pricing": {
+    "title": "Only what you need.<br><em>With clear pricing.</em>",
+    "body": "Start with the essentials and add only the features you actually need.",
+    "baseLabel": "BASE WEBSITE",
+    "baseDesc": "Design + development + responsive + deployment",
+    "included1": "Source code included",
+    "included2": "Git repository",
+    "included3": "Technical SEO basics",
+    "included4": "No page-builder lock-in",
+    "estimate": "PROJECT ESTIMATE",
+    "estimateNote": "Indicative price based on selected options.",
+    "cta": "Start this project ↗"
+  },
+  "tabs": {
+    "essential": "Essentials",
+    "business": "Business",
+    "advanced": "Advanced"
+  },
+  "compare": {
+    "title": "Fewer layers.<br><em>More control.</em>",
+    "traditional": "TRADITIONAL APPROACH"
+  },
+  "work": {
+    "title": "Selected work.",
+    "project1": "Digital identity, responsive website and custom development.",
+    "project2": "Multilingual web experience for travel and events.",
+    "view": "View project ↗"
+  },
+  "studio": {
+    "title": "Engineer by training.<br><em>Builder by nature.</em>",
+    "body": "I’m Giacomo. I spent around ten years at a Japanese company working in technology and innovation, including development, chatbots and conversational systems. Today I bring that technical mindset to smaller, faster and carefully crafted web products.",
+    "quote": "“Technology should reduce complexity, not add to it.”",
+    "years": "years in tech",
+    "ai": "assisted workflow",
+    "direct": "direct contact"
+  },
+  "process": {
+    "title": "From idea to online.<br><em>Without the complexity.</em>",
+    "s1t": "Tell me",
+    "s1b": "A quick brief: goals, style and content.",
+    "s2t": "I build",
+    "s2b": "Design and development with an AI-assisted workflow.",
+    "s3t": "Review",
+    "s3b": "We review the first version together.",
+    "s4t": "Go live",
+    "s4b": "Repository, deployment and handover."
+  },
+  "closing": {
+    "kicker": "THE WEB CHANGED. SO SHOULD WHAT YOU EXPECT FROM IT.",
+    "body": "Have a project? Tell me about it. I’ll reply with an idea, price and timeline.",
+    "cta": "Start a project ↗"
+  }
+}

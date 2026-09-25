@@ -1,0 +1,353 @@
+{
+  "nav": {
+    "work": "Lavori",
+    "services": "Servizi",
+    "pricing": "Prezzi",
+    "about": "Chi sono",
+    "build": "Crea il tuo sito →",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "title": "Il tuo sito.<br>Bello, veloce e tuo.",
+    "subtitle": "Design raffinato, tecnologia solida e prezzi trasparenti.<br>Codice sorgente incluso, senza lock-in.",
+    "cta": "Configura il tuo sito →",
+    "work": "Guarda i lavori"
+  },
+  "traits": {
+    "fast": "VELOCE",
+    "fastText": "Prima versione in pochi giorni",
+    "clear": "TRASPARENTE",
+    "clearText": "Prezzo visibile mentre configuri",
+    "custom": "DAVVERO TUO",
+    "customText": "Codice sorgente e progetto di tua proprietà"
+  },
+  "pricing": {
+    "eyebrow": "CONFIGURA IL TUO SITO",
+    "title": "Solo ciò che ti serve.<br>Con prezzi chiari.",
+    "text": "Costruisci il tuo sito selezionando le funzionalità. Vedi subito il prezzo, senza dover richiedere un preventivo.",
+    "yours": "IL TUO SITO",
+    "base": "Sito base",
+    "total": "Totale stimato",
+    "request": "Richiedi questo sito →",
+    "note": "Nessun pagamento richiesto ora.",
+    "essential": "Essenziali",
+    "business": "Business",
+    "advanced": "Avanzate",
+    "includedTitle": "SEMPRE INCLUSO NEL SITO BASE",
+    "advancedNote": "I prezzi delle funzionalità avanzate sono di partenza e vengono confermati dopo una breve analisi tecnica."
+  },
+  "work": {
+    "eyebrow": "LAVORI SELEZIONATI",
+    "title": "Progetti reali.<br>Non solo promesse.",
+    "arch": "Portfolio editoriale multilingua con form contatti.",
+    "rest": "Sito web e prenotazioni online",
+    "event": "Programma, mappe, luoghi e contenuti per un evento multigiorno.",
+    "intro": "Alcuni esempi del tipo di esperienza, cura visiva e funzionalità che posso costruire.",
+    "archTitle": "Studio di architettura",
+    "eventTitle": "Birthday Experience",
+    "conceptTitle": "Hospitality concept",
+    "concept": "Concept dimostrativo per ristorazione e hospitality."
+  },
+  "about": {
+    "eyebrow": "CHI SONO",
+    "title": "Ingegnere di formazione.<br>Creativo per vocazione.",
+    "text": "Sono Giacomo, ingegnere con oltre dieci anni di esperienza nel mondo della tecnologia e dell’innovazione. Ho lavorato in una società giapponese occupandomi di sviluppo di soluzioni digitali, chatbot e sistemi conversazionali. Oggi porto questo background nella creazione di siti web curati, veloci e funzionali.",
+    "years": "anni nel settore tech",
+    "jp": "esperienza in azienda giapponese",
+    "ai": "innovazione & conversazionale"
+  },
+  "features": {
+    "contact": {
+      "name": "Modulo di contatto",
+      "desc": "Permetti ai visitatori di scriverti",
+      "from": false
+    },
+    "whatsapp": {
+      "name": "Integrazione WhatsApp",
+      "desc": "Contatto diretto su WhatsApp",
+      "from": false
+    },
+    "calendar": {
+      "name": "Calendario appuntamenti",
+      "desc": "Prenotazioni per consulenze o appuntamenti",
+      "from": false
+    },
+    "maps": {
+      "name": "Google Maps",
+      "desc": "Mostra la tua posizione",
+      "from": false
+    },
+    "gallery": {
+      "name": "Galleria immagini",
+      "desc": "Foto, progetti o prodotti",
+      "from": false
+    },
+    "page": {
+      "name": "Pagina aggiuntiva",
+      "desc": "Aggiungi una o più pagine oltre a quelle incluse",
+      "from": false,
+      "plural": "Pagine aggiuntive"
+    },
+    "language": {
+      "name": "Lingua aggiuntiva",
+      "desc": "Seconda lingua €150, dalla terza +€100 ciascuna",
+      "from": false,
+      "plural": "Lingue aggiuntive"
+    },
+    "analytics": {
+      "name": "Google Analytics",
+      "desc": "Misura visite e conversioni",
+      "from": false
+    },
+    "chatbot": {
+      "name": "AI Chatbot",
+      "desc": "Assistente conversazionale intelligente",
+      "from": true
+    },
+    "social": {
+      "name": "Social links",
+      "desc": "Collegamenti ai tuoi profili social",
+      "from": false
+    },
+    "pdf": {
+      "name": "Download PDF / brochure",
+      "desc": "Menu, brochure o documenti scaricabili",
+      "from": false
+    },
+    "faq": {
+      "name": "FAQ",
+      "desc": "Domande e risposte frequenti",
+      "from": false
+    },
+    "basicAnimations": {
+      "name": "Animazioni base",
+      "desc": "Micro-animazioni e transizioni",
+      "from": false
+    },
+    "restaurantBooking": {
+      "name": "Prenotazione ristorante",
+      "desc": "Integrazione per richieste o booking",
+      "from": false
+    },
+    "newsletter": {
+      "name": "Newsletter",
+      "desc": "Raccolta contatti e iscrizioni",
+      "from": false
+    },
+    "metaPixel": {
+      "name": "Meta Pixel",
+      "desc": "Tracciamento campagne Meta",
+      "from": false
+    },
+    "blog": {
+      "name": "Blog / News",
+      "desc": "Sezione editoriale aggiornabile",
+      "from": false
+    },
+    "portfolio": {
+      "name": "Portfolio dinamico",
+      "desc": "Progetti e case study strutturati",
+      "from": false
+    },
+    "menu": {
+      "name": "Menu ristorante digitale",
+      "desc": "Menu elegante e responsive",
+      "from": false
+    },
+    "catalog": {
+      "name": "Catalogo prodotti",
+      "desc": "Catalogo senza e-commerce",
+      "from": false
+    },
+    "advancedForm": {
+      "name": "Form avanzato",
+      "desc": "Richieste preventivo o form personalizzati",
+      "from": false
+    },
+    "reviews": {
+      "name": "Recensioni Google",
+      "desc": "Mostra recensioni e reputazione",
+      "from": false
+    },
+    "cookie": {
+      "name": "Cookie consent",
+      "desc": "Banner e gestione consenso",
+      "from": false
+    },
+    "seoAdvanced": {
+      "name": "SEO avanzata iniziale",
+      "desc": "Ottimizzazione tecnica e contenuti base",
+      "from": false
+    },
+    "cms": {
+      "name": "CMS / contenuti modificabili",
+      "desc": "Gestione autonoma di contenuti",
+      "from": true
+    },
+    "advancedAnimations": {
+      "name": "Animazioni avanzate",
+      "desc": "Interazioni e motion design su misura",
+      "from": false
+    },
+    "configurator": {
+      "name": "Configuratore interattivo",
+      "desc": "Configurazione prodotti o servizi",
+      "from": true
+    },
+    "autoQuote": {
+      "name": "Preventivo automatico",
+      "desc": "Calcolo dinamico del preventivo",
+      "from": true
+    },
+    "membersArea": {
+      "name": "Area riservata",
+      "desc": "Contenuti privati per clienti o utenti",
+      "from": true
+    },
+    "login": {
+      "name": "Login utenti",
+      "desc": "Autenticazione e accesso personale",
+      "from": true
+    },
+    "database": {
+      "name": "Database",
+      "desc": "Dati persistenti e strutturati",
+      "from": true
+    },
+    "registration": {
+      "name": "Sistema iscrizioni",
+      "desc": "Registrazioni e gestione partecipanti",
+      "from": true
+    },
+    "payments": {
+      "name": "Pagamenti online",
+      "desc": "Integrazione provider di pagamento",
+      "from": true
+    },
+    "ecommerce": {
+      "name": "E-commerce",
+      "desc": "Vendita online e checkout",
+      "from": true
+    },
+    "dashboard": {
+      "name": "Dashboard cliente",
+      "desc": "Area dati e controllo personalizzata",
+      "from": true
+    },
+    "api": {
+      "name": "Integrazione API",
+      "desc": "Collegamento a servizi esterni",
+      "from": true
+    },
+    "automation": {
+      "name": "Automazioni",
+      "desc": "Workflow e processi automatici",
+      "from": true
+    },
+    "aiFaq": {
+      "name": "FAQ intelligente AI",
+      "desc": "Risposte AI sui contenuti aziendali",
+      "from": true
+    },
+    "aiLead": {
+      "name": "Lead qualification AI",
+      "desc": "Qualificazione automatica dei contatti",
+      "from": true
+    },
+    "aiAssistant": {
+      "name": "Assistente AI personalizzato",
+      "desc": "Esperienza AI costruita sul business",
+      "from": true
+    }
+  },
+  "categories": {
+    "essential": {
+      "label": "ESSENZIALI",
+      "hint": "Le funzioni più utili per partire."
+    },
+    "business": {
+      "label": "BUSINESS",
+      "hint": "Strumenti per trasformare il sito in uno strumento di lavoro."
+    },
+    "advanced": {
+      "label": "AVANZATE",
+      "hint": "Funzioni custom, software e intelligenza artificiale."
+    }
+  },
+  "included": {
+    "responsive": "✓ Design responsive",
+    "custom": "✓ Sviluppo custom",
+    "source": "✓ Codice sorgente",
+    "github": "✓ Repository GitHub",
+    "seo": "✓ SEO tecnico base",
+    "deploy": "✓ Pubblicazione online",
+    "ssl": "✓ HTTPS / SSL",
+    "revision": "✓ 1 revisione",
+    "ownership": "✓ Proprietà del codice"
+  },
+  "process": {
+    "eyebrow": "COME FUNZIONA",
+    "title": "Dal configuratore<br>al sito online.",
+    "s1t": "Configura",
+    "s1": "Scegli ciò che ti serve e vedi subito una stima.",
+    "s2t": "Parliamo",
+    "s2": "Una breve call per obiettivi, contenuti e dettagli tecnici.",
+    "s3t": "Creo",
+    "s3": "Sviluppo il progetto e ricevi rapidamente una prima versione.",
+    "s4t": "Online",
+    "s4": "Revisioniamo, pubblichiamo e ti consegno il codice."
+  },
+  "compare": {
+    "eyebrow": "UN MODELLO PIÙ SEMPLICE",
+    "title": "Meno opacità.<br>Più controllo.",
+    "traditional": "Approccio tradizionale",
+    "quote": "Preventivo",
+    "quoteOld": "Da richiedere",
+    "quoteNew": "Stima immediata",
+    "price": "Prezzo",
+    "priceOld": "Spesso poco visibile",
+    "priceNew": "Trasparente",
+    "code": "Codice",
+    "codeOld": "Dipende dal fornitore",
+    "codeNew": "Consegnato",
+    "functions": "Funzionalità",
+    "functionsOld": "Pacchetti predefiniti",
+    "functionsNew": "Scegli ciò che serve"
+  },
+  "closing": {
+    "eyebrow": "HAI GIÀ UN'IDEA?",
+    "title": "Partiamo da ciò che<br>serve davvero.",
+    "configure": "Configura il tuo sito →",
+    "talk": "Parliamone"
+  },
+  "lead": {
+    "eyebrow": "RICHIEDI IL PROGETTO",
+    "title": "La tua configurazione è pronta.",
+    "name": "Nome",
+    "email": "Email",
+    "company": "Azienda / progetto",
+    "message": "Messaggio",
+    "send": "Prepara la richiesta →",
+    "note": "La configurazione verrà inclusa automaticamente nella richiesta."
+  },
+  "contact": {
+    "eyebrow": "CONTATTI",
+    "title": "Raccontami il tuo progetto.",
+    "intro": "Compila il form. La richiesta arriverà direttamente alla mia email.",
+    "name": "Nome",
+    "email": "Email",
+    "company": "Azienda / attività",
+    "need": "Di cosa hai bisogno?",
+    "newSite": "Nuovo sito",
+    "redesign": "Restyling",
+    "webapp": "Web app",
+    "unsure": "Non lo so ancora",
+    "message": "Raccontami brevemente il progetto",
+    "send": "Invia richiesta →",
+    "sending": "Invio in corso…",
+    "success": "Messaggio inviato. Ti risponderò il prima possibile.",
+    "error": "Non sono riuscito a inviare il messaggio. Riprova tra poco.",
+    "visibleTitle": "Hai un progetto<br>in mente?",
+    "visibleIntro": "Raccontami cosa vuoi costruire. Possiamo partire da un'idea, da un sito esistente o semplicemente da un obiettivo."
+  }
+}

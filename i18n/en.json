@@ -1,0 +1,353 @@
+{
+  "nav": {
+    "work": "Work",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About",
+    "build": "Build your site →",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Your website.<br>Beautiful, fast and yours.",
+    "subtitle": "Refined design, solid technology and transparent pricing.<br>Source code included, with no lock-in.",
+    "cta": "Configure your website →",
+    "work": "View work"
+  },
+  "traits": {
+    "fast": "FAST",
+    "fastText": "First version in just a few days",
+    "clear": "TRANSPARENT",
+    "clearText": "See the price as you configure",
+    "custom": "TRULY YOURS",
+    "customText": "Source code and project ownership included"
+  },
+  "pricing": {
+    "eyebrow": "CONFIGURE YOUR WEBSITE",
+    "title": "Only what you need.<br>With clear pricing.",
+    "text": "Build your website by selecting the features you need. See the price immediately, without waiting for a quote.",
+    "yours": "YOUR WEBSITE",
+    "base": "Base website",
+    "total": "Estimated total",
+    "request": "Request this website →",
+    "note": "No payment required now.",
+    "essential": "Essentials",
+    "business": "Business",
+    "advanced": "Advanced",
+    "includedTitle": "ALWAYS INCLUDED IN THE BASE WEBSITE",
+    "advancedNote": "Advanced feature prices are starting prices and are confirmed after a short technical review."
+  },
+  "work": {
+    "eyebrow": "SELECTED WORK",
+    "title": "Real projects.<br>Not just promises.",
+    "arch": "Multilingual editorial portfolio with contact form.",
+    "rest": "Website and online reservations",
+    "event": "Schedule, maps, places and content for a multi-day event.",
+    "intro": "Examples of the experience, visual care and functionality I can build.",
+    "archTitle": "Architecture studio",
+    "eventTitle": "Birthday Experience",
+    "conceptTitle": "Hospitality concept",
+    "concept": "Demonstration concept for restaurants and hospitality."
+  },
+  "about": {
+    "eyebrow": "ABOUT",
+    "title": "Engineer by training.<br>Creative by nature.",
+    "text": "I’m Giacomo, an engineer with more than ten years of experience in technology and innovation. I worked for a Japanese company developing digital solutions, chatbots and conversational systems. Today I bring that background to carefully crafted, fast and functional websites.",
+    "years": "years in tech",
+    "jp": "experience in a Japanese company",
+    "ai": "innovation & conversational AI"
+  },
+  "features": {
+    "contact": {
+      "name": "Contact form",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "whatsapp": {
+      "name": "WhatsApp integration",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "calendar": {
+      "name": "Appointment calendar",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "maps": {
+      "name": "Google Maps",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "gallery": {
+      "name": "Image gallery",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "page": {
+      "name": "Additional page",
+      "desc": "Add one or more pages beyond those included",
+      "from": false,
+      "plural": "Additional pages"
+    },
+    "language": {
+      "name": "Additional language",
+      "desc": "Second language €150, each language from the third +€100",
+      "from": false,
+      "plural": "Additional languages"
+    },
+    "analytics": {
+      "name": "Google Analytics",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "chatbot": {
+      "name": "AI Chatbot",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "social": {
+      "name": "Social links",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "pdf": {
+      "name": "PDF / brochure download",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "faq": {
+      "name": "FAQ",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "basicAnimations": {
+      "name": "Basic animations",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "restaurantBooking": {
+      "name": "Restaurant booking",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "newsletter": {
+      "name": "Newsletter",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "metaPixel": {
+      "name": "Meta Pixel",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "blog": {
+      "name": "Blog / News",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "portfolio": {
+      "name": "Dynamic portfolio",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "menu": {
+      "name": "Digital restaurant menu",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "catalog": {
+      "name": "Product catalogue",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "advancedForm": {
+      "name": "Advanced form",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "reviews": {
+      "name": "Google reviews",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "cookie": {
+      "name": "Cookie consent",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "seoAdvanced": {
+      "name": "Initial advanced SEO",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "cms": {
+      "name": "CMS / editable content",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "advancedAnimations": {
+      "name": "Advanced animations",
+      "desc": "Custom module integrated into your website.",
+      "from": false
+    },
+    "configurator": {
+      "name": "Interactive configurator",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "autoQuote": {
+      "name": "Automatic quote",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "membersArea": {
+      "name": "Members area",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "login": {
+      "name": "User login",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "database": {
+      "name": "Database",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "registration": {
+      "name": "Registration system",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "payments": {
+      "name": "Online payments",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "ecommerce": {
+      "name": "E-commerce",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "dashboard": {
+      "name": "Client dashboard",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "api": {
+      "name": "API integration",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "automation": {
+      "name": "Automations",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "aiFaq": {
+      "name": "AI smart FAQ",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "aiLead": {
+      "name": "AI lead qualification",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    },
+    "aiAssistant": {
+      "name": "Custom AI assistant",
+      "desc": "Custom module integrated into your website.",
+      "from": true
+    }
+  },
+  "categories": {
+    "essential": {
+      "label": "ESSENTIALS",
+      "hint": "The most useful features to get started."
+    },
+    "business": {
+      "label": "BUSINESS",
+      "hint": "Tools that turn your website into a business tool."
+    },
+    "advanced": {
+      "label": "ADVANCED",
+      "hint": "Custom functionality, software and artificial intelligence."
+    }
+  },
+  "included": {
+    "responsive": "✓ Responsive design",
+    "custom": "✓ Custom development",
+    "source": "✓ Source code",
+    "github": "✓ GitHub repository",
+    "seo": "✓ Basic technical SEO",
+    "deploy": "✓ Online deployment",
+    "ssl": "✓ HTTPS / SSL",
+    "revision": "✓ 1 revision",
+    "ownership": "✓ Code ownership"
+  },
+  "process": {
+    "eyebrow": "HOW IT WORKS",
+    "title": "From configurator<br>to live website.",
+    "s1t": "Configure",
+    "s1": "Choose what you need and instantly see an estimate.",
+    "s2t": "Let's talk",
+    "s2": "A short call to define goals, content and technical details.",
+    "s3t": "I build",
+    "s3": "I develop the project and you quickly receive a first version.",
+    "s4t": "Go live",
+    "s4": "We review, publish and I hand over the code."
+  },
+  "compare": {
+    "eyebrow": "A SIMPLER MODEL",
+    "title": "Less opacity.<br>More control.",
+    "traditional": "Traditional approach",
+    "quote": "Quote",
+    "quoteOld": "Request required",
+    "quoteNew": "Instant estimate",
+    "price": "Price",
+    "priceOld": "Often unclear",
+    "priceNew": "Transparent",
+    "code": "Code",
+    "codeOld": "Depends on provider",
+    "codeNew": "Delivered",
+    "functions": "Features",
+    "functionsOld": "Preset packages",
+    "functionsNew": "Choose what you need"
+  },
+  "closing": {
+    "eyebrow": "ALREADY HAVE AN IDEA?",
+    "title": "Start with what<br>you really need.",
+    "configure": "Configure your website →",
+    "talk": "Let's talk"
+  },
+  "lead": {
+    "eyebrow": "REQUEST THE PROJECT",
+    "title": "Your configuration is ready.",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company / project",
+    "message": "Message",
+    "send": "Prepare request →",
+    "note": "Your configuration will be included automatically in the request."
+  },
+  "contact": {
+    "eyebrow": "CONTACT",
+    "title": "Tell me about your project.",
+    "intro": "Fill in the form. Your request will arrive directly in my inbox.",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company / business",
+    "need": "What do you need?",
+    "newSite": "New website",
+    "redesign": "Redesign",
+    "webapp": "Web app",
+    "unsure": "I'm not sure yet",
+    "message": "Tell me briefly about the project",
+    "send": "Send request →",
+    "sending": "Sending…",
+    "success": "Message sent. I'll get back to you as soon as possible.",
+    "error": "I couldn't send the message. Please try again shortly.",
+    "visibleTitle": "Have a project<br>in mind?",
+    "visibleIntro": "Tell me what you want to build. We can start from an idea, an existing website or simply a goal."
+  }
+}

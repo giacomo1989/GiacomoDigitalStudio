@@ -1,0 +1,353 @@
+{
+  "nav": {
+    "work": "Proyectos",
+    "services": "Servicios",
+    "pricing": "Precios",
+    "about": "Sobre mí",
+    "build": "Crea tu web →",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Tu web.<br>Bonita, rápida y tuya.",
+    "subtitle": "Diseño refinado, tecnología sólida y precios transparentes.<br>Código fuente incluido, sin dependencia.",
+    "cta": "Configura tu web →",
+    "work": "Ver proyectos"
+  },
+  "traits": {
+    "fast": "RÁPIDO",
+    "fastText": "Primera versión en pocos días",
+    "clear": "TRANSPARENTE",
+    "clearText": "Ves el precio mientras configuras",
+    "custom": "REALMENTE TUYO",
+    "customText": "Código fuente y propiedad del proyecto incluidos"
+  },
+  "pricing": {
+    "eyebrow": "CONFIGURA TU WEB",
+    "title": "Solo lo que necesitas.<br>Con precios claros.",
+    "text": "Construye tu web seleccionando las funcionalidades. Ve el precio al instante, sin tener que pedir presupuesto.",
+    "yours": "TU WEB",
+    "base": "Web base",
+    "total": "Total estimado",
+    "request": "Solicita esta web →",
+    "note": "No se requiere ningún pago ahora.",
+    "essential": "Esenciales",
+    "business": "Business",
+    "advanced": "Avanzadas",
+    "includedTitle": "SIEMPRE INCLUIDO EN LA WEB BASE",
+    "advancedNote": "Los precios de las funciones avanzadas son precios iniciales y se confirman tras una breve revisión técnica."
+  },
+  "work": {
+    "eyebrow": "PROYECTOS SELECCIONADOS",
+    "title": "Proyectos reales.<br>No solo promesas.",
+    "arch": "Portfolio editorial multilingüe con formulario de contacto.",
+    "rest": "Web y reservas online",
+    "event": "Programa, mapas, lugares y contenidos para un evento de varios días.",
+    "intro": "Ejemplos de la experiencia, cuidado visual y funcionalidades que puedo construir.",
+    "archTitle": "Estudio de arquitectura",
+    "eventTitle": "Birthday Experience",
+    "conceptTitle": "Hospitality concept",
+    "concept": "Concepto demostrativo para restauración y hospitality."
+  },
+  "about": {
+    "eyebrow": "SOBRE MÍ",
+    "title": "Ingeniero de formación.<br>Creativo por vocación.",
+    "text": "Soy Giacomo, ingeniero con más de diez años de experiencia en tecnología e innovación. Trabajé en una empresa japonesa desarrollando soluciones digitales, chatbots y sistemas conversacionales. Hoy aplico ese background a la creación de webs cuidadas, rápidas y funcionales.",
+    "years": "años en el sector tech",
+    "jp": "experiencia en empresa japonesa",
+    "ai": "innovación e IA conversacional"
+  },
+  "features": {
+    "contact": {
+      "name": "Formulario de contacto",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "whatsapp": {
+      "name": "Integración WhatsApp",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "calendar": {
+      "name": "Calendario de citas",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "maps": {
+      "name": "Google Maps",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "gallery": {
+      "name": "Galería de imágenes",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "page": {
+      "name": "Página adicional",
+      "desc": "Añade una o más páginas además de las incluidas",
+      "from": false,
+      "plural": "Páginas adicionales"
+    },
+    "language": {
+      "name": "Idioma adicional",
+      "desc": "Segundo idioma 150 €, cada idioma desde el tercero +100 €",
+      "from": false,
+      "plural": "Idiomas adicionales"
+    },
+    "analytics": {
+      "name": "Google Analytics",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "chatbot": {
+      "name": "Chatbot IA",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "social": {
+      "name": "Enlaces sociales",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "pdf": {
+      "name": "Descarga PDF / brochure",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "faq": {
+      "name": "FAQ",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "basicAnimations": {
+      "name": "Animaciones básicas",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "restaurantBooking": {
+      "name": "Reservas de restaurante",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "newsletter": {
+      "name": "Newsletter",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "metaPixel": {
+      "name": "Meta Pixel",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "blog": {
+      "name": "Blog / Noticias",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "portfolio": {
+      "name": "Portfolio dinámico",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "menu": {
+      "name": "Menú digital de restaurante",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "catalog": {
+      "name": "Catálogo de productos",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "advancedForm": {
+      "name": "Formulario avanzado",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "reviews": {
+      "name": "Reseñas de Google",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "cookie": {
+      "name": "Consentimiento cookies",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "seoAdvanced": {
+      "name": "SEO avanzado inicial",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "cms": {
+      "name": "CMS / contenido editable",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "advancedAnimations": {
+      "name": "Animaciones avanzadas",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": false
+    },
+    "configurator": {
+      "name": "Configurador interactivo",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "autoQuote": {
+      "name": "Presupuesto automático",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "membersArea": {
+      "name": "Área privada",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "login": {
+      "name": "Login de usuarios",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "database": {
+      "name": "Base de datos",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "registration": {
+      "name": "Sistema de inscripciones",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "payments": {
+      "name": "Pagos online",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "ecommerce": {
+      "name": "E-commerce",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "dashboard": {
+      "name": "Dashboard cliente",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "api": {
+      "name": "Integración API",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "automation": {
+      "name": "Automatizaciones",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "aiFaq": {
+      "name": "FAQ inteligente IA",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "aiLead": {
+      "name": "Calificación de leads con IA",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    },
+    "aiAssistant": {
+      "name": "Asistente IA personalizado",
+      "desc": "Módulo integrado y adaptado a tu sitio web.",
+      "from": true
+    }
+  },
+  "categories": {
+    "essential": {
+      "label": "ESENCIALES",
+      "hint": "Las funciones más útiles para empezar."
+    },
+    "business": {
+      "label": "BUSINESS",
+      "hint": "Herramientas para convertir la web en una herramienta de trabajo."
+    },
+    "advanced": {
+      "label": "AVANZADAS",
+      "hint": "Funciones a medida, software e inteligencia artificial."
+    }
+  },
+  "included": {
+    "responsive": "✓ Diseño responsive",
+    "custom": "✓ Desarrollo custom",
+    "source": "✓ Código fuente",
+    "github": "✓ Repositorio GitHub",
+    "seo": "✓ SEO técnico básico",
+    "deploy": "✓ Publicación online",
+    "ssl": "✓ HTTPS / SSL",
+    "revision": "✓ 1 revisión",
+    "ownership": "✓ Propiedad del código"
+  },
+  "process": {
+    "eyebrow": "CÓMO FUNCIONA",
+    "title": "Del configurador<br>a la web online.",
+    "s1t": "Configura",
+    "s1": "Elige lo que necesitas y ve una estimación al instante.",
+    "s2t": "Hablamos",
+    "s2": "Una breve llamada para objetivos, contenidos y detalles técnicos.",
+    "s3t": "Creo",
+    "s3": "Desarrollo el proyecto y recibes rápidamente una primera versión.",
+    "s4t": "Online",
+    "s4": "Revisamos, publicamos y te entrego el código."
+  },
+  "compare": {
+    "eyebrow": "UN MODELO MÁS SIMPLE",
+    "title": "Menos opacidad.<br>Más control.",
+    "traditional": "Enfoque tradicional",
+    "quote": "Presupuesto",
+    "quoteOld": "Hay que solicitarlo",
+    "quoteNew": "Estimación inmediata",
+    "price": "Precio",
+    "priceOld": "A menudo poco visible",
+    "priceNew": "Transparente",
+    "code": "Código",
+    "codeOld": "Depende del proveedor",
+    "codeNew": "Entregado",
+    "functions": "Funcionalidades",
+    "functionsOld": "Paquetes predefinidos",
+    "functionsNew": "Elige lo que necesitas"
+  },
+  "closing": {
+    "eyebrow": "¿YA TIENES UNA IDEA?",
+    "title": "Partimos de lo que<br>realmente necesitas.",
+    "configure": "Configura tu web →",
+    "talk": "Hablemos"
+  },
+  "lead": {
+    "eyebrow": "SOLICITA EL PROYECTO",
+    "title": "Tu configuración está lista.",
+    "name": "Nombre",
+    "email": "Email",
+    "company": "Empresa / proyecto",
+    "message": "Mensaje",
+    "send": "Preparar solicitud →",
+    "note": "La configuración se incluirá automáticamente en la solicitud."
+  },
+  "contact": {
+    "eyebrow": "CONTACTO",
+    "title": "Cuéntame tu proyecto.",
+    "intro": "Completa el formulario. La solicitud llegará directamente a mi email.",
+    "name": "Nombre",
+    "email": "Email",
+    "company": "Empresa / actividad",
+    "need": "¿Qué necesitas?",
+    "newSite": "Nueva web",
+    "redesign": "Rediseño",
+    "webapp": "Web app",
+    "unsure": "Aún no lo sé",
+    "message": "Cuéntame brevemente el proyecto",
+    "send": "Enviar solicitud →",
+    "sending": "Enviando…",
+    "success": "Mensaje enviado. Te responderé lo antes posible.",
+    "error": "No he podido enviar el mensaje. Inténtalo de nuevo en unos instantes.",
+    "visibleTitle": "¿Tienes un proyecto<br>en mente?",
+    "visibleIntro": "Cuéntame qué quieres construir. Podemos partir de una idea, una web existente o simplemente de un objetivo."
+  }
+}

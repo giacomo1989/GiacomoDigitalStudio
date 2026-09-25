@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "work": "Lavori",
+    "studio": "Studio",
+    "pricing": "Prezzi",
+    "start": "Inizia un progetto ↗"
+  },
+  "hero": {
+    "eyebrow": "BOUTIQUE WEB DESIGN × ENGINEERING × AI",
+    "title": "Un sito bello.<br>In pochi giorni.<br><em>E il codice è tuo.</em>",
+    "body": "Siti web su misura, sviluppati con un processo AI-assisted. Prezzi chiari. Nessun lock-in. Codice sorgente incluso.",
+    "cta1": "Costruisci il tuo sito ↗",
+    "cta2": "Guarda i lavori ↓",
+    "delivery": "CONSEGNA TIPICA 5–10 GIORNI"
+  },
+  "manifesto": {
+    "kicker": "UN NUOVO MODO DI COSTRUIRE SUL WEB",
+    "title": "AI lo rende più veloce.<br>L’ingegneria lo rende affidabile.<br><em>Il design lo rende tuo.</em>"
+  },
+  "pricing": {
+    "title": "Solo ciò che ti serve.<br><em>Con prezzi chiari.</em>",
+    "body": "Parti dall’essenziale e aggiungi solo le funzionalità che servono davvero.",
+    "baseLabel": "SITO BASE",
+    "baseDesc": "Design + sviluppo + responsive + deploy",
+    "included1": "Codice sorgente incluso",
+    "included2": "Repository Git",
+    "included3": "SEO tecnico base",
+    "included4": "Nessun page-builder lock-in",
+    "estimate": "STIMA DEL PROGETTO",
+    "estimateNote": "Prezzo indicativo in base alle opzioni selezionate.",
+    "cta": "Inizia questo progetto ↗"
+  },
+  "tabs": {
+    "essential": "Essenziali",
+    "business": "Business",
+    "advanced": "Avanzate"
+  },
+  "compare": {
+    "title": "Meno strati.<br><em>Più controllo.</em>",
+    "traditional": "APPROCCIO TRADIZIONALE"
+  },
+  "work": {
+    "title": "Lavori selezionati.",
+    "project1": "Identità digitale, sito responsive e sviluppo custom.",
+    "project2": "Esperienza web multilingua per viaggio ed evento.",
+    "view": "Vedi progetto ↗"
+  },
+  "studio": {
+    "title": "Ingegnere di formazione.<br><em>Builder per natura.</em>",
+    "body": "Sono Giacomo. Ho lavorato per circa dieci anni in una società giapponese nel mondo della tecnologia e dell’innovazione, occupandomi di sviluppo, chatbot e sistemi conversazionali. Oggi applico quella sensibilità tecnica a prodotti web più piccoli, rapidi e curati.",
+    "quote": "“La tecnologia deve ridurre la complessità, non aggiungerla.”",
+    "years": "anni nel tech",
+    "ai": "workflow assistito",
+    "direct": "contatto diretto"
+  },
+  "process": {
+    "title": "Da idea a online.<br><em>Senza complicazioni.</em>",
+    "s1t": "Raccontami",
+    "s1b": "Brief rapido: obiettivi, stile e contenuti.",
+    "s2t": "Costruisco",
+    "s2b": "Design e sviluppo con workflow AI-assisted.",
+    "s3t": "Revisioni",
+    "s3b": "Controlliamo insieme la prima versione.",
+    "s4t": "Online",
+    "s4b": "Repository, deploy e consegna."
+  },
+  "closing": {
+    "kicker": "IL WEB È CAMBIATO. ANCHE QUELLO CHE DOVRESTI ASPETTARTI.",
+    "body": "Hai un progetto? Raccontamelo. Ti rispondo con idea, prezzo e tempi.",
+    "cta": "Inizia un progetto ↗"
+  }
+}
