@@ -24,7 +24,7 @@
   "pricing": {
     "eyebrow": "CONFIGURA TU WEB",
     "title": "Solo lo que necesitas.<br>Con precios claros.",
-    "text": "Construye tu web seleccionando las funcionalidades. Ve el precio al instante, sin tener que pedir presupuesto.",
+    "text": "Empieza con una base completa y añade solo lo que necesitas. El total se actualiza al instante.",
     "yours": "TU WEB",
     "base": "Web base",
     "total": "Total estimado",
@@ -33,16 +33,19 @@
     "essential": "Esenciales",
     "business": "Business",
     "advanced": "Avanzadas",
-    "includedTitle": "SIEMPRE INCLUIDO EN LA WEB BASE",
-    "advancedNote": "Los precios de las funciones avanzadas son precios iniciales y se confirman tras una breve revisión técnica."
+    "includedTitle": "SIEMPRE INCLUIDO",
+    "advancedNote": "Los precios de las funciones avanzadas son precios iniciales y se confirman tras una breve revisión técnica.",
+    "baseLabel": "SITIO BASE",
+    "baseDesc": "Diseño y desarrollo a medida, responsive y publicación incluidos.",
+    "includedInline": "Móvil & desktop · Código fuente · Publicación online · Dominio conectado · SEO base · Sitio rápido y seguro · 1 revisión · Propiedad del proyecto"
   },
   "work": {
     "eyebrow": "PROYECTOS SELECCIONADOS",
-    "title": "Proyectos reales.<br>No solo promesas.",
+    "title": "Diseño que<br>toma forma.",
     "arch": "Portfolio editorial multilingüe con formulario de contacto.",
     "rest": "Web y reservas online",
     "event": "Programa, mapas, lugares y contenidos para un evento de varios días.",
-    "intro": "Ejemplos de la experiencia, cuidado visual y funcionalidades que puedo construir.",
+    "intro": "Proyectos reales y conceptos que muestran lo que puedo construir.",
     "archTitle": "Estudio de arquitectura",
     "eventTitle": "Birthday Experience",
     "conceptTitle": "Hospitality concept",
@@ -53,7 +56,7 @@
     "title": "Ingeniero de formación.<br>Creativo por vocación.",
     "text": "Soy Giacomo, ingeniero con más de diez años de experiencia en tecnología e innovación. Trabajé en una empresa japonesa desarrollando soluciones digitales, chatbots y sistemas conversacionales. Hoy aplico ese background a la creación de webs cuidadas, rápidas y funcionales.",
     "years": "años en el sector tech",
-    "jp": "experiencia en empresa japonesa",
+    "jp": "diseño & desarrollo",
     "ai": "innovación e IA conversacional"
   },
   "features": {
@@ -287,15 +290,15 @@
   },
   "process": {
     "eyebrow": "CÓMO FUNCIONA",
-    "title": "Del configurador<br>a la web online.",
+    "title": "Un proceso sencillo.<br>De la idea al sitio online.",
     "s1t": "Configura",
     "s1": "Elige lo que necesitas y ve una estimación al instante.",
     "s2t": "Hablamos",
-    "s2": "Una breve llamada para objetivos, contenidos y detalles técnicos.",
-    "s3t": "Creo",
-    "s3": "Desarrollo el proyecto y recibes rápidamente una primera versión.",
-    "s4t": "Online",
-    "s4": "Revisamos, publicamos y te entrego el código."
+    "s2": "Revisamos juntos el proyecto, las necesidades y los detalles.",
+    "s3t": "Construyo",
+    "s3": "Diseño y desarrollo a medida, sin plantillas obligatorias.",
+    "s4t": "Es tuyo",
+    "s4": "Publicamos con código fuente y repositorio de tu propiedad."
   },
   "compare": {
     "eyebrow": "UN MODELO MÁS SIMPLE",
@@ -347,7 +350,7 @@
     "sending": "Enviando…",
     "success": "Mensaje enviado. Te responderé lo antes posible.",
     "error": "No he podido enviar el mensaje. Inténtalo de nuevo en unos instantes.",
-    "visibleTitle": "¿Tienes un proyecto<br>en mente?",
-    "visibleIntro": "Cuéntame qué quieres construir. Podemos partir de una idea, una web existente o simplemente de un objetivo."
+    "visibleTitle": "¿Tienes una idea?<br>Construyámosla bien.",
+    "visibleIntro": "Cuéntame qué tienes en mente. Te responderé personalmente y veremos cómo convertirlo en un proyecto concreto."
   }
 }

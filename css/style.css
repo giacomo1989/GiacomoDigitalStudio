@@ -89,3 +89,15 @@ header .header-config-cta:hover{
   background-position:center center!important;
   background-repeat:no-repeat!important;
 }
+
+/* Refinement pass */
+.base-offer{margin:28px 0 0;padding:18px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.base-offer>div{display:flex;align-items:baseline;justify-content:space-between;gap:20px}
+.base-offer .base-kicker{font-size:10px;letter-spacing:1.8px;font-weight:600}
+.base-offer strong{font:400 28px 'Playfair Display'}
+.base-offer p{margin:7px 0 0!important;font-size:11px!important;line-height:1.55!important;color:var(--muted)!important}
+.included.compact{margin-top:18px!important;padding-top:0!important;border-top:0!important}
+.included.compact .eyebrow{margin-bottom:8px!important}
+.included-inline{font-size:10px!important;line-height:1.8!important;color:var(--muted)!important;margin:0!important}
+.option{min-height:58px!important}.category-tabs{margin-top:28px!important}
+.process{padding-top:88px!important;padding-bottom:96px!important}
